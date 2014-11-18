@@ -68,7 +68,7 @@ create table products (
 Once done check if the table was create successfully. You can do that by running this sql command in the my_products database
 
 ```
-select * from my products
+select * from products
 ```
 
 #Use it
@@ -77,7 +77,7 @@ Now you should be ready to run the application.
 
 Open a terminal window in the root of the CRUD application and type
 
-```sudo node npm install```
+```sudo npm install```
 
 This will install all the modules that the application depends on.
 
